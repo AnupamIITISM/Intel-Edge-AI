@@ -1,0 +1,10 @@
+Lesson 2 : lecture 6
+Pretrained Models in OpenVINO
+https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
+
+Overview of OpenVINO toolkit pre-trained models
+https://docs.openvinotoolkit.org/latest/_models_intel_index.html
+- Gives the exact model name
+- Details of the model downloader --
+  The models can be downloaded via Model Downloader (<OPENVINO_INSTALL_DIR>/deployment_tools/open_model_zoo/tools/downloader). 
+  They can also be downloaded manually from 01.org.
